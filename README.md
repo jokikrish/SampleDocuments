@@ -1,2 +1,2 @@
 # SampleDocuments
-This folder contains writing Samples for refrences only. This folder has Webpage and PDFs.
+This folder contains writing Samples for reference only. This folder has Webpage and PDFs.
